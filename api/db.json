@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is cool",
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "this is goofy.",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "here's some stream",
+      "id": 3
+    },
+    {
+      "title": "Unexpected Behaviour",
+      "description": "Didn't expect that",
+      "userId": "117040793256608994722",
+      "id": 5
+    },
+    {
+      "title": "Programmatic Navigation new ",
+      "description": "You should not see this on the form page!! 123",
+      "id": 6
+    },
+    {
+      "title": "Streaming Component Reuse",
+      "description": "Watch me refractor some components",
+      "userId": "117040793256608994722",
+      "id": 7
+    }
+  ]
+}
